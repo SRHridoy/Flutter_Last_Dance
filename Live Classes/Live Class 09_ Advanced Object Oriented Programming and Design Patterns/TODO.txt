@@ -1,0 +1,33 @@
+1. Data/Model Class --> only represent data (data shape/model ke nirdesh kore)
+
+2. Immutable Class
+
+3. Dart Runtime Type Reflection
+
+4. Dart Generics
+    - map, set, list, class(jokhn dynamic type create korte chaibo class e )
+
+
+5. Dart Dependency Injection(Jokhn ekta class dependent hobe then Dependency push korar pokria holo Dependency Injection...)
+    - Baire theke class niye ese onno class e constructor e ese push korai Dependency Injection...
+    - Bairer class feature amar class e dhukano
+
+
+6. Dart Inheritance
+
+7. Dart Composition(without inheritance we can get the feature of other class like Dependency Injection)
+
+8. Dart Mixin(jegula khubi common segula mixin kore diye use kori)
+
+9. Singleton Class Pattern(Object ekbar e create hobe...)
+    - Private constructor
+    - Single Instance
+    - Factory constructor
+
+10. SOLID
+    - 10.1 Single Responsibility Principle(1 Responsibility only)
+    - 10.2 Open/Close Principle
+    - 10.3 Liskov Substitution Principle
+    - 10.4 Interface Segregation Principle
+    - 10.5 Dependency Inversion Principle
+
