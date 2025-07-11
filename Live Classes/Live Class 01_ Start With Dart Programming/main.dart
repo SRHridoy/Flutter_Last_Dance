@@ -45,4 +45,7 @@ void main() {
   const constVar = 'It Can\'t be changed';
   //Runtime Constant:
   final finalVar = 'I am a runtime constant';
+
+  Set cities = {'Rajshahi', 'Rajshahi', 'Dhaka'};
+  print(cities);
 }
