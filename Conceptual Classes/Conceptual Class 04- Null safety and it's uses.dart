@@ -38,7 +38,14 @@ void main() {
   //Null assertion operator
   //It allows you to assert that a variable is not null.
   String? wpNumber;
-  print(wpNumber!);
+  print(wpNumber!.length);
+
+  //late keyword:
+  late String description;
+  description = 'This gets initialized later!';
+  print(description);
+
   
 
+  
 }
